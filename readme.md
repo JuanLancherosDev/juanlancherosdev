@@ -1,4 +1,10 @@
 <h1 align="center"> Welcome 👋🏼  I'm Juan — 👀</h1>
+<p align="center">
+  <samp>
+     Frontend Architect, Web Developer, Author and Open Source Enthusiast from Colombia .
+  </samp>
+</p>
+
 
 💜 Welcome my github developer profile. Here I publish my latest work and my daily coding routine, that's it. I'm just a Front-end guy, who loves make  — amazing — things.
 
