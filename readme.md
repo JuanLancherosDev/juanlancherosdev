@@ -1,11 +1,8 @@
-
-<p align="center">
   <h1 align="center"> 👋🏼 Hello! I'm < /Juan> — 👀</h1>
-  <p aling="center">
+<p align="center">
     <samp>
      Frontend Architect, Web Developer, Enthusiast from Colombia .
   </samp>
-  </p>
 </p>
 
 
