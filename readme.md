@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome 👋🏼  I'm Juan — 👀</h1>
 <p align="center">
   <samp>
-     Frontend Architect, Web Developer, Author and Open Source Enthusiast from Colombia .
+     Frontend Architect, Web Developer, Enthusiast from Colombia .
   </samp>
 </p>
 
