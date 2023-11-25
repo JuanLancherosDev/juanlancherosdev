@@ -1,5 +1,6 @@
-<h1 align="center"> Welcome 👋🏼  I'm Juan — 👀</h1>
+
 <p align="center">
+  <h1 align="center"> Welcome 👋🏼  I'm <Juan /> — 👀</h1>
   <samp>
      Frontend Architect, Web Developer, Enthusiast from Colombia .
   </samp>
