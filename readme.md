@@ -1,4 +1,4 @@
-  <h1 align="center"> <em>👋🏼 WELCOME, I'M JUAN SEBASTIAN — 👀</em></h1>
+  <h1 align="center"> <em> Hello, I'm Juan 🐘 </em></h1>
 <p align="center">
     <samp>
      Frontend Architect, Web Developer, Enthusiast from Colombia .
