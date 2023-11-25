@@ -1,4 +1,6 @@
-<h2 align="center">👋🏼 Hello! I'm Juan —</h2>
+<h1 align="center">👋🏼 Hello! I'm Juan —</h1>
+
+---
 
 💜 Welcome my github developer profile. Here I publish my latest work and my daily coding routine, that's it. I'm just a Front-end guy, who loves make  — amazing — things.
 
